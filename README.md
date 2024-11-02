@@ -1,2 +1,2 @@
 # practise
-learn
+this is my first github repo
